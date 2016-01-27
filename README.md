@@ -32,7 +32,9 @@
     `
 
 # Docker Hub Repository #
-- You can pull from my image at: https://hub.docker.com/r/voduytuan/docker-apache-php/
+- You can pull from my image at: https://hub.docker.com/r/hoangthienan/docker-apache-php/
     `
-    $ > docker pull voduytuan/docker-apache-php
+    $ > docker pull hoangthienan/docker-apache-php
     `
+# Credits #
+* [https://github.com/voduytuan/docker-apache-php](https://github.com/voduytuan/docker-apache-php)
