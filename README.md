@@ -28,7 +28,7 @@
 # Example Run #
 - Normal start web server:
     `
-    $ > docker run -ti -d -p 8080:80 -h webserver -e COLLECTD_WRITEHTTP_HOST="http://receive-collectd-server/" --name web01 voduytuan/docker-apache-php 
+    $ > docker run -ti -d -p 8080:80 -h webserver -e COLLECTD_WRITEHTTP_HOST="http://receive-collectd-server/" --name web01 hoangthienan/docker-apache-php 
     `
 
 # Docker Hub Repository #
@@ -36,5 +36,6 @@
     `
     $ > docker pull hoangthienan/docker-apache-php
     `
+
 # Credits #
 * [https://github.com/voduytuan/docker-apache-php](https://github.com/voduytuan/docker-apache-php)
